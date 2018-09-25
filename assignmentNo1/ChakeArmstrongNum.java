@@ -6,7 +6,7 @@ public class ChakeArmstrongNum {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("\n Please Enter number to Check for Armstrong: ");
+		System.out.println("\n Enter the num to check  Armstrong: ");
 		 int Number = sc.nextInt();
 		chkArmstrong(Number);
 	}
